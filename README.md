@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya Gupta</h1>
-<h3 align="center">I am a passionate python developer from India.</h3>
+<h3 align="center">I am a passionate Python developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya2003gupta&label=Profile%20views&color=0e75b6&style=flat" alt="ananya2003gupta" /> </p>
 
