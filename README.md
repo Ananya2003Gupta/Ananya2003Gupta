@@ -9,7 +9,7 @@
 
 - 💬 Ask me about : **Python, C++, C, HTML, CSS, git, Machine Learning**
 
-- 📫 How to reach me : **gupta2003ananya05@gmail.com**
+- 📫 How to reach me : **ananya2003gupta05@gmail.com**
 
 - 😄 Pronouns : **she/her/hers**
 
