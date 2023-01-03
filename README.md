@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/ananya_gupt_a" target="blank"><img src="https://img.shields.io/twitter/follow/ananya_gupt_a?logo=twitter&style=for-the-badge" alt="ananya_gupt_a" /></a> </p>
 
-- 🌱 I’m currently learning : **Machine Learning, Deep Learning and Computer Vision**
+- 🌱 I’m currently learning : **Natural Language Processing and Computer Vision**
 
-- 💬 Ask me about : **Python, C++, C, HTML, CSS, git, Machine Learning**
+- 💬 Ask me about : **Python, C, C++, HTML5, CSS, JavaScript, Data Analysis, Data Visualization, Machine Learning, git and GitHub**
 
-- 📫 How to reach me : **ananya2003gupta09@gmail.com**
+- 📫 How to reach me : **ananyaguptawork1@gmail.com**
 
 - 😄 Pronouns : **she/her/hers**
 
