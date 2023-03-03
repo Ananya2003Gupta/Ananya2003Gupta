@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananya Gupta</h1>
 <h3 align="center">I am a passionate Python developer and Data Analyst from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya2003gupta&label=Profile%20views&color=0e75b6&style=flat" alt="ananya2003gupta" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ananya_gupt_a" target="blank"><img src="https://img.shields.io/twitter/follow/ananya_gupt_a?logo=twitter&style=for-the-badge" alt="ananya_gupt_a" /></a> </p>
 
 - 🌱 I’m currently learning : **Natural Language Processing and Computer Vision**
 
