@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate Python developer and Data Analyst from India.</h3>
 
 
-- 🌱 I’m currently learning : **Golang, Docker, Kubernetes**
+- 🌱 I’m currently learning : **Julia**
 
 - 💬 Ask me about : **Python, C, C++, HTML5, CSS, JavaScript, Data Analysis, Data Visualization, Machine Learning, git and GitHub**
 
