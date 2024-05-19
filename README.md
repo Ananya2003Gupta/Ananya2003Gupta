@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Gupta</h1>
 <h3 align="center">A Python alchemist, transforming data into insights with Machine Learning and Deep Learning</h3>
 
-- 🌱 I’m currently learning : **Golang**
+- 🌱 I’m currently learning about : **Large Language Models and RAG**
 
 - 💬 Ask me about : **Data Analysis, Data Visualization, Machine Learning, Deep Learning and Mathematics**
 
