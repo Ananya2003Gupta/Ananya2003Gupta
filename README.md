@@ -5,8 +5,6 @@
 
 - 💬 Ask me about : **Data Analysis, Data Visualization, Machine Learning, Deep Learning and Mathematics**
 
-- 📫 How to reach me : **ananyaguptawork1@gmail.com**
-
 - 😄 Pronouns : **she/her/hers**
 
 ## 🤝 Connect with me:
